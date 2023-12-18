@@ -294,3 +294,53 @@
         }
     ]
 }
+
+
+
+{
+    "offres" : [
+        {
+            "france": [
+                {
+                    "id": "ski-noel",
+                    "station" : "Gourette",
+                    "name": "Offre Ski Noël",
+                    "sejour": "Séjour du 23 au 30 décembre",
+                    "condition": "1 forfait 6j adulte acheté",
+                    "discount": ["1 forfait 6j enfant offert"],
+                    "startVisualisation": "16/10/2023",
+                    "endVisualisation": "21/10/2023",
+                    "type": "Forfait seul",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/promo-noel-pyrenees",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/ski_noel.png"
+                },
+                {
+                    "id": "pack-noel",
+                    "station" : "Gourette",
+                    "name": "Offre special Noël",
+                    "sejour": "Séjour du 23 au 30 décembre",
+                    "condition": "6 jours de ski & 7 nuits",
+                    "discount": ["-20% sur les forfaits", "-12% sur les hébergements"],
+                    "startVisualisation": "15/09/2023",
+                    "endVisualisation": "17/12/2023",
+                    "type": "Forfait + hébergement",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/offres-noel",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/pack-noel.png"
+                },
+                {
+                    "id": "bon-cadeau",
+                    "station" : "Gourette",
+                    "name": "Bon Cadeau",
+                    "sejour": "Pendant la période de Noël",
+                    "condition": "Offrez le séjour de rêve à vos proches",
+                    "discount": ["Le cadeau parfait pour Noël"],
+                    "startVisualisation": "05/12/2023",
+                    "endVisualisation": "26/12/2023",
+                    "type": "Forfait seul",
+                    "url": "https://www.n-py.com/fr/sejour-pyrenees/forfaits-ski/bon-cadeau-ski",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/visu%20ff%2Bhbgt.png"
+                }
+            ]
+        }
+    ]
+}
