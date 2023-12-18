@@ -339,6 +339,84 @@
                     "type": "Forfait seul",
                     "url": "https://www.n-py.com/fr/sejour-pyrenees/forfaits-ski/bon-cadeau-ski",
                     "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/visu%20ff%2Bhbgt.png"
+                },
+                {
+                    "id": "weekend-janvier",
+                    "station" : "Gourette",
+                    "name": "Week-ends givrés janvier",
+                    "sejour": "Séjour du 12 au 29 janvier",
+                    "condition": "2 jours de ski & 2 nuits",
+                    "discount": ["110€ /pers"],
+                    "startVisualisation": "01/10/2023",
+                    "endVisualisation": "25/01/2024",
+                    "type": "Forfait + hébergement",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/week-end-ski-janvier",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/we_givre_janvier.png"
+                },
+                {
+                    "id": "crazy-janvier",
+                    "station" : "Gourette",
+                    "name": "Semaine Crazy Janvier",
+                    "sejour": "Séjour du 13 au 21 janvier",
+                    "condition": "6 jours de ski & 7 nuits",
+                    "discount": ["210€ /pers"],
+                    "startVisualisation": "15/09/2023",
+                    "endVisualisation": "20/03/2024",
+                    "type": "Forfait + hébergement",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/semaine-crazy-janvier",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/semaine_crazy_janvier.png"
+                },
+                {
+                    "id": "early-booking",
+                    "station" : "Gourette",
+                    "name": "Early Booking Février",
+                    "sejour": "Séjour du 10 au 17 février",
+                    "condition": "6 jours de ski & 7 nuits",
+                    "discount": ["-15% sur les forfaits", "-12% sur les hébergements"],
+                    "startVisualisation": "15/09/2023",
+                    "endVisualisation": "15/11/2023",
+                    "type": "Forfait + hébergement",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/early-booking",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-09/visu_offre_early.png"
+                },
+                {
+                    "id": "crazy-mars",
+                    "station" : "Gourette",
+                    "name": "Semaine Crazy Mars",
+                    "sejour": "Séjour du 09 au 31 mars",
+                    "condition": "6 jours de ski & 7 nuits",
+                    "discount": ["210€ /pers"],
+                    "startVisualisation": "15/09/2023",
+                    "endVisualisation": "20/03/2024",
+                    "type": "Forfait + hébergement",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/semaine-crazy-mars",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/semaine_crazy_mars.png"
+                },
+                {
+                    "id": "portillo",
+                    "station" : "Gourette",
+                    "name": "Offre spéciale le Portillo",
+                    "sejour": "Séjour en décembre, janvier, mars",
+                    "condition": "6 jours de ski & 7 nuits",
+                    "discount": ["-20% sur les forfaits", "-10% sur les hébergements"],
+                    "startVisualisation": "15/09/2023",
+                    "endVisualisation": "15/12/2023",
+                    "type": "Forfait + hébergement",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/promotion-portillo",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-11/visu_offre_portillo.png"
+                },
+                {
+                    "id": "weekend-mars",
+                    "station" : "Gourette",
+                    "name": "Week-ends Springs Mountain",
+                    "sejour": "Séjour du 15 au 25 mars",
+                    "condition": "2 jours de ski & 2 nuits",
+                    "discount": ["110€ /pers"],
+                    "startVisualisation": "15/10/2023",
+                    "endVisualisation": "25/03/2024",
+                    "type": "Forfait + hébergement",
+                    "url": "https://www.n-py.com/fr/gourette/offres-speciales/week-end-ski-mars",
+                    "urlImg": "https://www.n-py.com/sites/n-py.com/files/2023-12/we_spring_mountain.png"
                 }
             ]
         }
